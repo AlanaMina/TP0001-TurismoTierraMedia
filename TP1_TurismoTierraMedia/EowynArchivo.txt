@@ -1,0 +1,10 @@
+El usuario  Eowyn
+con preferencia AVENTURA
+con un presupuesto de 100.0 monedas. 
+con un tiempo disponible de 80.0 horas. 
+Pack aventura : [Bosque Negro, Mordor] con un descuento del 20.0 % por lo que el costo total es de 22.4 monedas
+Moria(10.0 monedas, 2.0 horas, 5 lugares, tipo: AVENTURA)
+Pack degustacion: [La Comarca, Lothlorien] a 36.0 monedas totales
+Pack paisajes: [Minas Tirith, Abismo de Helm, Erebor] con Erebor gratis a 22.0 monedas
+deberá pagar un total de 90.4 monedas 
+deberá invertir un tiempo total de 27.0 horas.

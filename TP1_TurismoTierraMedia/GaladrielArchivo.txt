@@ -1,0 +1,8 @@
+El usuario  Galadriel
+con preferencia PAISAJE
+con un presupuesto de 120.0 monedas. 
+con un tiempo disponible de 5.0 horas. 
+Erebor(12.0 monedas, 3.0 horas, 30 lugares, tipo: PAISAJE)
+Abismo de Helm(5.0 monedas, 2.0 horas, 13 lugares, tipo: PAISAJE)
+deberá pagar un total de 17.0 monedas 
+deberá invertir un tiempo total de 5.0 horas.

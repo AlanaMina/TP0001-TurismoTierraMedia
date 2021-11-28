@@ -1,0 +1,7 @@
+El usuario  Sam
+con preferencia DEGUSTACION
+con un presupuesto de 36.0 monedas. 
+con un tiempo disponible de 8.0 horas. 
+Pack degustacion: [La Comarca, Lothlorien] a 36.0 monedas totales
+deberá pagar un total de 36.0 monedas 
+deberá invertir un tiempo total de 7.5 horas.

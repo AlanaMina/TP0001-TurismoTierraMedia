@@ -1,0 +1,5 @@
+Pack aveNTura, Bosque Negro, Mordor, 0.20
+Pack degustacion, Lothlorien, La Comarca, 36
+Pack paisaJes, Minas Tirith, Abismo de Helm, Erebor
+Pack deGustacionPorcentual, La Comarca, Lothlorien, 0.3
+Pack paisajesAbsoluto, Minas Tirith, Erebor, 15
